@@ -33,7 +33,7 @@ I am an Android Developer at ADevForAll, specializing in Kotlin and modern Andro
 
 ## 🎓 Education
 
-**B.Tech in Computer Science | Bhilai Institute Of Technology, Durg | Expected Graduation: August 2027**
+**B.Tech in Computer Science | Shri Shankaracharya Technical Campus, Bhilai | Expected Graduation: August 2027**
 
 ## 📂 Selected Projects
 
